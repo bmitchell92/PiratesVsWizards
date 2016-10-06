@@ -1,0 +1,19 @@
+U:\Programming\C#\TowerDefenceMap\TowerDefenceMap\TowerDefenceMapContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\C#\TowerDefenceMap\TowerDefenceMap\TowerDefenceMapContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\TowerDefenceMap\TowerDefenceMap\TowerDefenceMapContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TowerDefenceMap\TowerDefenceMap\TowerDefenceMapContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bjg14\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMapContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMapContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BAM22\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMapContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMapContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMapContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMapContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMapContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMapContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMapContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMapContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMapContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMapContent\obj\x86\Debug\Audio\PiratesVsWizardsSounds.xml
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMapContent\obj\x86\Debug\Audio\PiratesVsWizardsSounds.xml
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMapContent\obj\x86\Debug\Audio\PiratesVsWizardsSounds.xml
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMapContent\obj\x86\Debug\Audio\PiratesVsWizardsSounds.xml

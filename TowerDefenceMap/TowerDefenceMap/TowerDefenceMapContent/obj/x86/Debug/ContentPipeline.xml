@@ -1,0 +1,523 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\landTile.png</Source>
+      <Name>Images\landTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\landTile.xnb</Output>
+      <Time>2012-10-19T04:43:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\collisionSkin.png</Source>
+      <Name>Images\collisionSkin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\collisionSkin.xnb</Output>
+      <Time>2012-10-19T04:43:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\waterTile.png</Source>
+      <Name>Images\waterTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\waterTile.xnb</Output>
+      <Time>2012-10-19T04:43:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\rockTile.png</Source>
+      <Name>Images\rockTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\rockTile.xnb</Output>
+      <Time>2012-10-19T04:43:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\swordPirate.png</Source>
+      <Name>Images\swordPirate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\swordPirate.xnb</Output>
+      <Time>2012-10-22T09:07:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\treeTile.png</Source>
+      <Name>Images\treeTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\treeTile.xnb</Output>
+      <Time>2012-10-29T14:31:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PirateSelect.png</Source>
+      <Name>Images\PirateSelect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\PirateSelect.xnb</Output>
+      <Time>2012-10-29T15:57:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WizardSelect.png</Source>
+      <Name>Images\WizardSelect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardSelect.xnb</Output>
+      <Time>2012-10-29T15:55:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\errorSelect.png</Source>
+      <Name>Images\errorSelect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\errorSelect.xnb</Output>
+      <Time>2012-10-31T08:33:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\pirateflag.png</Source>
+      <Name>Images\pirateflag</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateflag.xnb</Output>
+      <Time>2012-10-31T09:19:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bar.png</Source>
+      <Name>Images\bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\bar.xnb</Output>
+      <Time>2012-11-02T09:59:04-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\barFilling.png</Source>
+      <Name>Images\barFilling</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\barFilling.xnb</Output>
+      <Time>2012-11-02T10:00:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\barLine.png</Source>
+      <Name>Images\barLine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\barLine.xnb</Output>
+      <Time>2012-11-02T10:35:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tower.png</Source>
+      <Name>Images\tower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\tower.xnb</Output>
+      <Time>2012-11-02T16:17:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Wizard.png</Source>
+      <Name>Images\Wizard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\Wizard.xnb</Output>
+      <Time>2012-11-19T16:18:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bombPirate.png</Source>
+      <Name>Images\bombPirate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\bombPirate.xnb</Output>
+      <Time>2012-11-05T12:25:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\pirateCaptain.png</Source>
+      <Name>Images\pirateCaptain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateCaptain.xnb</Output>
+      <Time>2012-11-05T12:25:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\pistolPirate.png</Source>
+      <Name>Images\pistolPirate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pistolPirate.xnb</Output>
+      <Time>2012-11-05T12:25:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bombPirate_animated.png</Source>
+      <Name>Images\bombPirate_animated</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\bombPirate_animated.xnb</Output>
+      <Time>2012-11-09T08:33:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\pirateCaptain_animated.png</Source>
+      <Name>Images\pirateCaptain_animated</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateCaptain_animated.xnb</Output>
+      <Time>2012-11-09T09:24:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\pistolPirate_animated.png</Source>
+      <Name>Images\pistolPirate_animated</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pistolPirate_animated.xnb</Output>
+      <Time>2012-11-09T09:12:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\swordPirate_animated.png</Source>
+      <Name>Images\swordPirate_animated</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\swordPirate_animated.xnb</Output>
+      <Time>2012-11-09T08:45:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\pentagramSheet.png</Source>
+      <Name>Images\pentagramSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pentagramSheet.xnb</Output>
+      <Time>2012-11-16T07:52:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\a_Button.png</Source>
+      <Name>Images\a_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\a_Button.xnb</Output>
+      <Time>2012-11-14T08:58:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\b_Button.png</Source>
+      <Name>Images\b_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\b_Button.xnb</Output>
+      <Time>2012-11-14T08:58:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\castleHealthBar.png</Source>
+      <Name>Images\castleHealthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\castleHealthBar.xnb</Output>
+      <Time>2012-11-14T08:58:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\lB_Button.png</Source>
+      <Name>Images\lB_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\lB_Button.xnb</Output>
+      <Time>2012-11-14T08:58:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\rB_Button.png</Source>
+      <Name>Images\rB_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\rB_Button.xnb</Output>
+      <Time>2012-11-14T08:58:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WizardUIBackground.jpg</Source>
+      <Name>Images\WizardUIBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardUIBackground.xnb</Output>
+      <Time>2012-11-14T08:58:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\x_Button.png</Source>
+      <Name>Images\x_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\x_Button.xnb</Output>
+      <Time>2012-11-14T08:58:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\y_Button.png</Source>
+      <Name>Images\y_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\y_Button.xnb</Output>
+      <Time>2012-11-14T08:58:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\statSelect.png</Source>
+      <Name>Images\statSelect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\statSelect.xnb</Output>
+      <Time>2012-11-16T07:51:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\musketball.png</Source>
+      <Name>Images\musketball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\musketball.xnb</Output>
+      <Time>2012-11-14T11:36:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\explosion.png</Source>
+      <Name>Images\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\explosion.xnb</Output>
+      <Time>2012-11-16T10:42:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\magicBlast.png</Source>
+      <Name>Images\magicBlast</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\magicBlast.xnb</Output>
+      <Time>2012-11-16T18:05:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Castle.png</Source>
+      <Name>Images\Castle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\Castle.xnb</Output>
+      <Time>2012-11-17T20:42:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\select.png</Source>
+      <Name>Images\select</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\select.xnb</Output>
+      <Time>2012-11-19T10:27:27-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PirateUnitSelect.png</Source>
+      <Name>Images\PirateUnitSelect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\PirateUnitSelect.xnb</Output>
+      <Time>2012-11-19T22:52:58.2433097-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\pirateShip.png</Source>
+      <Name>Images\pirateShip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateShip.xnb</Output>
+      <Time>2012-11-20T13:59:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\DemonDisplay.png</Source>
+      <Name>Images\DemonDisplay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\DemonDisplay.xnb</Output>
+      <Time>2012-11-21T10:39:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ForestDemon.png</Source>
+      <Name>Images\ForestDemon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\ForestDemon.xnb</Output>
+      <Time>2012-11-21T10:39:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PauseMenu.png</Source>
+      <Name>Images\PauseMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\PauseMenu.xnb</Output>
+      <Time>2012-11-21T10:39:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\StartMenu.png</Source>
+      <Name>Images\StartMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\StartMenu.xnb</Output>
+      <Time>2012-11-21T10:39:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\wall.png</Source>
+      <Name>Images\wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\wall.xnb</Output>
+      <Time>2012-11-21T10:39:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WaterDemon.png</Source>
+      <Name>Images\WaterDemon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WaterDemon.xnb</Output>
+      <Time>2012-11-21T10:39:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WizardLostScreen.png</Source>
+      <Name>Images\WizardLostScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardLostScreen.xnb</Output>
+      <Time>2012-11-21T10:39:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\wizardslose.jpg</Source>
+      <Name>Images\wizardslose</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\wizardslose.xnb</Output>
+      <Time>2012-11-21T10:39:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WizardsWin.jpg</Source>
+      <Name>Images\WizardsWin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardsWin.xnb</Output>
+      <Time>2012-11-21T10:39:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WizardWinScreen.png</Source>
+      <Name>Images\WizardWinScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardWinScreen.xnb</Output>
+      <Time>2012-11-21T10:39:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\SWGothe_12.spritefont</Source>
+      <Name>Font\SWGothe_12</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_12.xnb</Output>
+      <Time>2012-11-21T16:47:59.2184389-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\SWGothe_15.spritefont</Source>
+      <Name>Font\SWGothe_15</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_15.xnb</Output>
+      <Time>2012-11-21T16:47:59.2024379-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\SWGothe_20.spritefont</Source>
+      <Name>Font\SWGothe_20</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_20.xnb</Output>
+      <Time>2012-11-21T16:47:59.185437-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\SWGothe_35.spritefont</Source>
+      <Name>Font\SWGothe_35</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_35.xnb</Output>
+      <Time>2012-11-21T16:47:59.1624357-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMapContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMapContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-06-11T17:34:27.2548835-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

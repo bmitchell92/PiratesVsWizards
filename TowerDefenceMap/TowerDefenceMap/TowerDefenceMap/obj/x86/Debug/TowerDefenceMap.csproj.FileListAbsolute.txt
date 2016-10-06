@@ -1,0 +1,483 @@
+U:\Programming\C#\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\landTile.xnb
+U:\Programming\C#\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\collisionSkin.xnb
+U:\Programming\C#\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\waterTile.xnb
+U:\Programming\C#\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\rockTile.xnb
+U:\Programming\C#\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.exe
+U:\Programming\C#\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.pdb
+U:\Programming\C#\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\Programming\C#\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+U:\Programming\C#\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.exe
+U:\Programming\C#\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.pdb
+G:\C#\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\C#\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\C#\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.exe
+G:\C#\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\landTile.xnb
+G:\C#\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\collisionSkin.xnb
+G:\C#\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\waterTile.xnb
+G:\C#\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\rockTile.xnb
+G:\C#\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.exe
+G:\C#\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.pdb
+G:\C#\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.pdb
+C:\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\landTile.xnb
+C:\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\collisionSkin.xnb
+C:\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\waterTile.xnb
+C:\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\rockTile.xnb
+C:\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.exe
+C:\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.pdb
+C:\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.exe
+C:\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.pdb
+D:\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\landTile.xnb
+D:\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\collisionSkin.xnb
+D:\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\waterTile.xnb
+D:\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\rockTile.xnb
+D:\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.exe
+D:\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.pdb
+D:\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.exe
+D:\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.pdb
+D:\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\swordPirate.xnb
+C:\Users\bjg14\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\landTile.xnb
+C:\Users\bjg14\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\collisionSkin.xnb
+C:\Users\bjg14\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\waterTile.xnb
+C:\Users\bjg14\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\rockTile.xnb
+C:\Users\bjg14\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\swordPirate.xnb
+C:\Users\bjg14\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.exe
+C:\Users\bjg14\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.pdb
+C:\Users\bjg14\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bjg14\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\bjg14\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.exe
+C:\Users\bjg14\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.pdb
+C:\Users\bjg14\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\treeTile.xnb
+C:\Users\bjg14\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\PirateSelect.xnb
+C:\Users\bjg14\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardSelect.xnb
+D:\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\treeTile.xnb
+D:\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\PirateSelect.xnb
+D:\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardSelect.xnb
+D:\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\errorSelect.xnb
+D:\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateflag.xnb
+D:\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\landTile.xnb
+D:\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\collisionSkin.xnb
+D:\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\waterTile.xnb
+D:\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\rockTile.xnb
+D:\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\swordPirate.xnb
+D:\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\treeTile.xnb
+D:\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\PirateSelect.xnb
+D:\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardSelect.xnb
+D:\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\errorSelect.xnb
+D:\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateflag.xnb
+D:\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.exe
+D:\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.pdb
+D:\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.exe
+D:\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.pdb
+C:\Users\BAM22\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\landTile.xnb
+C:\Users\BAM22\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\collisionSkin.xnb
+C:\Users\BAM22\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\waterTile.xnb
+C:\Users\BAM22\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\rockTile.xnb
+C:\Users\BAM22\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\swordPirate.xnb
+C:\Users\BAM22\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\treeTile.xnb
+C:\Users\BAM22\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\PirateSelect.xnb
+C:\Users\BAM22\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardSelect.xnb
+C:\Users\BAM22\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\errorSelect.xnb
+C:\Users\BAM22\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateflag.xnb
+C:\Users\BAM22\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.exe
+C:\Users\BAM22\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.pdb
+C:\Users\BAM22\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BAM22\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\BAM22\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.exe
+C:\Users\BAM22\SkyDrive\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.pdb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\landTile.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\collisionSkin.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\waterTile.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\rockTile.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\swordPirate.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\treeTile.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\PirateSelect.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardSelect.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\errorSelect.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateflag.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.exe
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.pdb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.exe
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.pdb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.exe
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\landTile.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\collisionSkin.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\waterTile.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\rockTile.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\swordPirate.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\treeTile.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\PirateSelect.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardSelect.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\errorSelect.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateflag.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.exe
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.pdb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.pdb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\bar.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\barFilling.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\barLine.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\landTile.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\collisionSkin.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\waterTile.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\rockTile.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\swordPirate.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\treeTile.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\PirateSelect.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardSelect.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\errorSelect.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateflag.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\bar.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\barFilling.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\barLine.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.exe
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.pdb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.exe
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.pdb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\bar.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\barFilling.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\barLine.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\tower.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\Wizard.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.exe
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.pdb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\landTile.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\collisionSkin.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\waterTile.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\rockTile.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\swordPirate.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\treeTile.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\PirateSelect.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardSelect.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\errorSelect.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateflag.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\bar.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\barFilling.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\barLine.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\tower.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\Wizard.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.exe
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.pdb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\bombPirate.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateCaptain.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pistolPirate.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\tower.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\Wizard.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\bombPirate.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateCaptain.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pistolPirate.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\bombPirate.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateCaptain.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pistolPirate.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\bombPirate_animated.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateCaptain_animated.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pistolPirate_animated.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\swordPirate_animated.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pentagramSheet.xnb
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\landTile.xnb
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\collisionSkin.xnb
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\waterTile.xnb
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\rockTile.xnb
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\swordPirate.xnb
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\treeTile.xnb
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\PirateSelect.xnb
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardSelect.xnb
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\errorSelect.xnb
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateflag.xnb
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\bar.xnb
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\barFilling.xnb
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\barLine.xnb
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\tower.xnb
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\Wizard.xnb
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\bombPirate.xnb
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateCaptain.xnb
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pistolPirate.xnb
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\bombPirate_animated.xnb
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateCaptain_animated.xnb
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pistolPirate_animated.xnb
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\swordPirate_animated.xnb
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pentagramSheet.xnb
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.exe
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.pdb
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.exe
+C:\Users\BAM22.PTI_DOMAIN\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.pdb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\a_Button.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\b_Button.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\castleHealthBar.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\lB_Button.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\rB_Button.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardUIBackground.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\x_Button.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\y_Button.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_12.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_15.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_20.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_35.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\tower.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\Wizard.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\bombPirate.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateCaptain.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pistolPirate.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\bombPirate_animated.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateCaptain_animated.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pistolPirate_animated.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\swordPirate_animated.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pentagramSheet.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\a_Button.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\b_Button.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\castleHealthBar.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\lB_Button.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\rB_Button.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardUIBackground.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\x_Button.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\y_Button.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_12.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_15.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_20.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_35.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\landTile.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\collisionSkin.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\waterTile.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\rockTile.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\swordPirate.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\treeTile.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\PirateSelect.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardSelect.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\errorSelect.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateflag.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\bar.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\barFilling.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\barLine.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\tower.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\Wizard.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\bombPirate.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateCaptain.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pistolPirate.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\bombPirate_animated.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateCaptain_animated.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pistolPirate_animated.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\swordPirate_animated.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pentagramSheet.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\a_Button.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\b_Button.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\castleHealthBar.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\lB_Button.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\rB_Button.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardUIBackground.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\x_Button.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\y_Button.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_12.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_15.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_20.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_35.xnb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.exe
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.pdb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.exe
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.pdb
+F:\Game Projects\Wizards Vs. Pirates\temp\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\statSelect.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\statSelect.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\musketball.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\explosion.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\landTile.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\collisionSkin.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\waterTile.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\rockTile.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\swordPirate.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\treeTile.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\PirateSelect.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardSelect.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\errorSelect.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateflag.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\bar.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\barFilling.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\barLine.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\tower.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\Wizard.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\bombPirate.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateCaptain.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pistolPirate.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\bombPirate_animated.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateCaptain_animated.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pistolPirate_animated.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\swordPirate_animated.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pentagramSheet.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\a_Button.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\b_Button.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\castleHealthBar.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\lB_Button.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\rB_Button.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardUIBackground.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\x_Button.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\y_Button.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\statSelect.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\musketball.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\explosion.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_12.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_15.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_20.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_35.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.exe
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.pdb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.exe
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.pdb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\magicBlast.xnb
+F:\Game Projects\Wizards Vs. Pirates\workingFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\Castle.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\landTile.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\collisionSkin.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\waterTile.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\rockTile.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\swordPirate.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\treeTile.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\PirateSelect.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardSelect.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\errorSelect.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateflag.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\bar.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\barFilling.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\barLine.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\tower.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\Wizard.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\bombPirate.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateCaptain.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pistolPirate.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\bombPirate_animated.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateCaptain_animated.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pistolPirate_animated.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\swordPirate_animated.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pentagramSheet.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\a_Button.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\b_Button.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\castleHealthBar.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\lB_Button.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\rB_Button.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardUIBackground.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\x_Button.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\y_Button.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\statSelect.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\musketball.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\explosion.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\magicBlast.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\Castle.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_12.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_15.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_20.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_35.xnb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.exe
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\TowerDefenceMap.pdb
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.exe
+F:\Game Projects\Wizards Vs. Pirates\StableFile\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\obj\x86\Debug\TowerDefenceMap.pdb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\statSelect.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\musketball.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\explosion.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\magicBlast.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\Castle.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\magicBlast.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\Castle.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\select.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\bombPirate_animated.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateCaptain_animated.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pistolPirate_animated.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\swordPirate_animated.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pentagramSheet.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\a_Button.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\b_Button.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\castleHealthBar.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\lB_Button.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\rB_Button.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardUIBackground.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\x_Button.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\y_Button.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\statSelect.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\musketball.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\explosion.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\magicBlast.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\Castle.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\select.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_12.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_15.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_20.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_35.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\bombPirate_animated.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateCaptain_animated.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pistolPirate_animated.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\swordPirate_animated.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pentagramSheet.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\a_Button.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\b_Button.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\castleHealthBar.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\lB_Button.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\rB_Button.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardUIBackground.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\x_Button.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\y_Button.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\statSelect.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\musketball.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\explosion.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\magicBlast.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\Castle.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\select.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_12.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_15.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_20.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Font\SWGothe_35.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\PirateUnitSelect.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\PirateUnitSelect.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateShip.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateShip.xnb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Audio\PiratesVsWizardsSounds.xgs
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+D:\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\PirateUnitSelect.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateShip.xnb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Audio\PiratesVsWizardsSounds.xgs
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\BAM22\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\select.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\PirateUnitSelect.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\pirateShip.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Audio\PiratesVsWizardsSounds.xgs
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\DemonDisplay.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\ForestDemon.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\PauseMenu.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\StartMenu.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\wall.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WaterDemon.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardLostScreen.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\wizardslose.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardsWin.xnb
+C:\Users\bjg14\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardWinScreen.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\DemonDisplay.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\ForestDemon.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\PauseMenu.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\StartMenu.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\wall.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WaterDemon.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardLostScreen.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\wizardslose.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardsWin.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Images\WizardWinScreen.xnb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Audio\PiratesVsWizardsSounds.xgs
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\Brett\SkyDrive\Work File\TowerDefenceMap\TowerDefenceMap\TowerDefenceMap\bin\x86\Debug\Content\Audio\Sound Bank.xsb
